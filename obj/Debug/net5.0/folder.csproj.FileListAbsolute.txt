@@ -13,4 +13,3 @@ C:\Users\Filipe Almeida\Desktop\C#\Code_git\folder\obj\Debug\net5.0\folder.dll
 C:\Users\Filipe Almeida\Desktop\C#\Code_git\folder\obj\Debug\net5.0\ref\folder.dll
 C:\Users\Filipe Almeida\Desktop\C#\Code_git\folder\obj\Debug\net5.0\folder.pdb
 C:\Users\Filipe Almeida\Desktop\C#\Code_git\folder\obj\Debug\net5.0\folder.genruntimeconfig.cache
-C:\Users\Filipe Almeida\Desktop\C#\Code_git\folder\obj\Debug\net5.0\folder.csproj.AssemblyReference.cache
