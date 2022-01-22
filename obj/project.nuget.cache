@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4D+W+sTRYOBZXu8DNWcSpDC9z/sier/OVx0op0gyzDtjCb4GQyoR33wB64H9tdXSaNcFv+xdbI+rJuo2n0J8kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Filipe Almeida\\Desktop\\C#\\Code_git\\folder\\folder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Filipe Almeida\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
